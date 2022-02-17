@@ -1,7 +1,7 @@
 ### Hello there 👋
 - 🎓 Graduated in the Integrated Technical Course in Informatics at the Federal Technological University of Paraná.
 
-- 📫 E-mail: **thamyrissacamoto0@gmail.com**
+- 📫 E-mail: **thamyrissacamoto@hotmail.com**
 
 ### Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thamyrissacamoto/)
