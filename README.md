@@ -8,7 +8,7 @@
 
 #
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thamyrissacamoto&show_icons=true&theme=dark&locale=en&layout=compact" alt="thamyrissacamoto" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thamyrissacamoto&show_icons=true&theme=dark&locale=en&layout=compact" alt="thamyrissacamoto" /></p> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
