@@ -2,9 +2,9 @@
 
 ### Sobre:
 
-- 🎓 Formada no Curso Técnico Integrado em Informática na Universidade Tecnológica Federal do Paraná.
-
-- 📫 E-mail: **thamyrissacamoto@hotmail.com**
+- Formada no Curso Técnico Integrado em Informática na Universidade Tecnológica Federal do Paraná.
+- Cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná.
+- E-mail: **thamyrissacamoto@hotmail.com**
 
 #
 
